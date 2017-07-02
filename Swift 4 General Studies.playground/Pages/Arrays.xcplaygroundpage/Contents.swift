@@ -1,5 +1,6 @@
 /*:
- # Swift Studies
+ 
+ [Table of Contents](Table%20of%20Contents)
  
  ## Arrays
  > An _array_ stores values of the same type in an ordered list. The same value can appear in an array multiple times at different positions.
