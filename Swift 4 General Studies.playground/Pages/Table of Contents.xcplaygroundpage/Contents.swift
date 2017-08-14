@@ -6,5 +6,6 @@
  ## Table of Contents
  
  1. [Arrays](Arrays)
+ 1. [Sets](Sets)
  
  */
